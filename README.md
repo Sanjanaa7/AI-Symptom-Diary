@@ -83,7 +83,7 @@ Your entries are saved locally in a CSV file. No data is sent online.
 
 __Setup Instructions__
 
-- Clone the repository:
+ -  Clone the repository:
 
   ```
   git clone https://github.com/your-username/AI-Symptom-Diary.git
@@ -95,20 +95,20 @@ __Setup Instructions__
     python -m textblob.download_corpora
     
     ```
-  _ Run the notebook or script and start journaling!!
+  - Run the notebook or script and start journaling!!
 
 __Future Ideas__
 
-  -Add emojis for moods 😄 😐 😢
-  -Symptom frequency tracker
-  -Streamlit web version
-  -Triggers and trend detection
+  - Add emojis for moods 😄 😐 😢
+  - Symptom frequency tracker
+  - Streamlit web version
+  - Triggers and trend detection
 
-__Python__
+__Made With__
 
-  -Python
-  -Jupyter Notebook
-  -❤️ for self-care and mental health
+  - Python
+  - Jupyter Notebook
+  - ❤️ for self-care and mental health
   
 __License__
 
@@ -116,7 +116,7 @@ __License__
 
 ---
 
-## 🙋‍♂️ About Me
+##  About Me
 
 **Name:** Sanjanaa S 
 
